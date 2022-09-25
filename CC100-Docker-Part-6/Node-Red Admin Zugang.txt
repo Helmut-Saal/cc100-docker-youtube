@@ -1,0 +1,20 @@
+Admin Tool installieren:
+$ npm install -g node-red-admin
+
+Passwort erzeugen:
+$ node-red-admin hash-pw
+
+Nano Editor installieren:
+$ apk update 
+$ apk add nano
+
+Konfigurationsdatei editieren:
+$ nano /data/settings.js
+
+
+Speichern und schließen:
+Tastenkombi: STRG + O => Enter
+Tastenkombi: STRG + X => Enter
+
+Passwort:
+gehashtes Password hier :-)
